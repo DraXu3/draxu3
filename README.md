@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 - 💻 Main technical stack: **JavaScript/TypeScript** (*React.js* / *Node.js* mostly). Additional: *Python*, *Go*, *C++*
 - 🕺 Proficient tech and team lead who provides **high quality delivery**. *Mentor*, *public speaker*, *lecturer*
 - 🤖 Passionate about new trends and technologies in **Web Development**, **Cloud Computing** and **AI/ML**
-- 🎓 **Master’s Degree in Mathematics** (thesis *"Generalized p-Adic Functions"*), author of multiple scientific publications (*IT* and *Mathematics* fields)
+- 🎓 **Master’s Degree in Mathematics** (thesis *"Generalized p-Adic Functions"*), author of multiple scientific publications
 
 Simply speaking, a **rock star** 🤘🏻
