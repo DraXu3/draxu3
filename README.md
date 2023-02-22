@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Who am I? 🤔
 <!--
 **DraXu3/draxu3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🎖️ Experienced **Software Engineer** with a primary focus on **Full-Stack Web Development** and **Solution Architecture**
+- 💻 Main technical stack: **JavaScript/TypeScript** (*React.js* / *Node.js* mostly). Additional: *Python*, *Go*, *C++*
+- 🕺 Proficient tech and team lead who provides **high quality delivery**. *Mentor*, *public speaker*, *lecturer*
+- 🤖 Passionate about new trends and technologies in **Web Development**, **Cloud Computing** and **AI/ML**
+- 🎓 **Master’s Degree in Mathematics** (thesis *"Generalized p-Adic Functions"*), author of multiple scientific publications (*IT* and *Mathematics* fields)
+
+Simply speaking, a **rock star** 🤘🏻
